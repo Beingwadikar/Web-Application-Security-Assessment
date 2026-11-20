@@ -43,6 +43,21 @@ These observations are documented as lab results. They are not presented as conf
 ## Project Scope and Limitations
 This was a controlled, beginner-level local lab. Testing was limited to the activities listed above. No claim of a comprehensive penetration test or confirmed security vulnerability is made.
 
+
+## Project Submission
+
+**Project Title:** Web Application Security Assessment
+
+**Tools Used:** Kali Linux, Docker, OWASP Juice Shop and Firefox Developer Tools.
+
+**Project Report:** The complete 4-page project report is included with the capstone submission on Honeywell Future Skills Edge.
+
+**GitHub Repository:**  
+https://github.com/Beingwadikar/Web-Application-Security-Assessment
+
+This project was completed as a beginner-level, hands-on web application security assessment in a local testing environment.
+
+
 ## Evidence
 Screenshots of the setup, application, API responses, authentication tests, and challenge activity are stored in the `Screenshots/` directory.
 
